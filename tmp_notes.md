@@ -7,3 +7,19 @@
 ### referral
 
 - curl http://localhost:3333/invites/john123
+
+### clicks
+
+- curl http://localhost:3333/subscribers/john123/ranking/clicks
+
+### count
+
+- curl http://localhost:3333/subscribers/john123/ranking/count
+
+### position
+
+- curl http://localhost:3333/subscribers/john123/ranking/position
+
+### ranking
+
+- curl http://localhost:3333/ranking
