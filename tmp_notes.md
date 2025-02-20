@@ -1,4 +1,5 @@
 - should change `.env` reference in the `package.json` script "dev"
+- should improve the environment variables in Dockerfile
 
 ### create user
 
